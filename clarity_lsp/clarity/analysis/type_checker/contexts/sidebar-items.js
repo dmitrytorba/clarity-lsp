@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["MAX_CONTEXT_DEPTH",""]],"struct":[["ContractContext",""],["TypeMap",""],["TypingContext",""]]});

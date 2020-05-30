@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["no_type",""],["trait_type_size",""],["type_reserved_variable",""]],"mod":[["contexts",""],["natives",""]],"struct":[["TypeChecker",""]],"type":[["TypeResult",""]]});

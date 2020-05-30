@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Level","In a near future, we can go further in our static analysis and provide different levels  of diagnostics, such as warnings, hints, best practices, etc."]],"struct":[["Diagnostic",""]],"trait":[["DiagnosableError",""]]});

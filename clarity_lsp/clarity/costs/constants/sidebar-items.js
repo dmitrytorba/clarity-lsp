@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["AS_CONTRACT_MEMORY",""],["AT_BLOCK_MEMORY",""]]});

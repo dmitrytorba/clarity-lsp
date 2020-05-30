@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Pair","An iterator that returns pairs of elements"]],"trait":[["Pairable","Returns an iterator that returns elements of the original iterator 2 at a time"]]});

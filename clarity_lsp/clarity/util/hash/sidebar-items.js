@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["bytes_to_hex","Convert a vec of u8 to a hex string"],["hex_bytes","Convert a hexadecimal-encoded string to its corresponding bytes"],["to_hex","Convert a slice of u8 to a hex string"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["build_ast",""]],"mod":[["definition_sorter",""],["errors",""],["expression_identifier",""],["parser",""],["stack_depth_checker",""],["sugar_expander",""],["traits_resolver",""],["types",""]]});
